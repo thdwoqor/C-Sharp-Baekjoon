@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\bin\Debug\netcoreapp3.1\시험 감독.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\bin\Debug\netcoreapp3.1\시험 감독.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\bin\Debug\netcoreapp3.1\시험 감독.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\bin\Debug\netcoreapp3.1\시험 감독.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\bin\Debug\netcoreapp3.1\시험 감독.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\bin\Debug\netcoreapp3.1\시험 감독.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\obj\Debug\netcoreapp3.1\시험 감독.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\obj\Debug\netcoreapp3.1\시험 감독.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\obj\Debug\netcoreapp3.1\시험 감독.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\obj\Debug\netcoreapp3.1\시험 감독.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\obj\Debug\netcoreapp3.1\시험 감독.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\시험 감독\obj\Debug\netcoreapp3.1\시험 감독.genruntimeconfig.cache

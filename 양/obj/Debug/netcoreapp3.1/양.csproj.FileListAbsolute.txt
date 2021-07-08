@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\bin\Debug\netcoreapp3.1\양.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\bin\Debug\netcoreapp3.1\양.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\bin\Debug\netcoreapp3.1\양.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\bin\Debug\netcoreapp3.1\양.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\bin\Debug\netcoreapp3.1\양.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\bin\Debug\netcoreapp3.1\양.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\obj\Debug\netcoreapp3.1\양.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\obj\Debug\netcoreapp3.1\양.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\obj\Debug\netcoreapp3.1\양.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\obj\Debug\netcoreapp3.1\양.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\obj\Debug\netcoreapp3.1\양.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\양\obj\Debug\netcoreapp3.1\양.genruntimeconfig.cache

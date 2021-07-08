@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\bin\Debug\netcoreapp3.1\IOIOI.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\bin\Debug\netcoreapp3.1\IOIOI.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\bin\Debug\netcoreapp3.1\IOIOI.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\bin\Debug\netcoreapp3.1\IOIOI.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\bin\Debug\netcoreapp3.1\IOIOI.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\bin\Debug\netcoreapp3.1\IOIOI.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\obj\Debug\netcoreapp3.1\IOIOI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\obj\Debug\netcoreapp3.1\IOIOI.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\obj\Debug\netcoreapp3.1\IOIOI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\obj\Debug\netcoreapp3.1\IOIOI.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\obj\Debug\netcoreapp3.1\IOIOI.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\IOIOI\obj\Debug\netcoreapp3.1\IOIOI.genruntimeconfig.cache

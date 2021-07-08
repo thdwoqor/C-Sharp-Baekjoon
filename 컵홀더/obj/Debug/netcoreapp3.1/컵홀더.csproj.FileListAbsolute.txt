@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\bin\Debug\netcoreapp3.1\컵홀더.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\bin\Debug\netcoreapp3.1\컵홀더.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\bin\Debug\netcoreapp3.1\컵홀더.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\bin\Debug\netcoreapp3.1\컵홀더.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\bin\Debug\netcoreapp3.1\컵홀더.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\bin\Debug\netcoreapp3.1\컵홀더.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\obj\Debug\netcoreapp3.1\컵홀더.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\obj\Debug\netcoreapp3.1\컵홀더.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\obj\Debug\netcoreapp3.1\컵홀더.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\obj\Debug\netcoreapp3.1\컵홀더.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\obj\Debug\netcoreapp3.1\컵홀더.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\obj\Debug\netcoreapp3.1\컵홀더.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\컵홀더\obj\Debug\netcoreapp3.1\컵홀더.genruntimeconfig.cache

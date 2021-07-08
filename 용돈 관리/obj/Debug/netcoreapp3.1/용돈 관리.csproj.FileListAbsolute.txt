@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\bin\Debug\netcoreapp3.1\용돈 관리.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\bin\Debug\netcoreapp3.1\용돈 관리.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\bin\Debug\netcoreapp3.1\용돈 관리.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\bin\Debug\netcoreapp3.1\용돈 관리.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\bin\Debug\netcoreapp3.1\용돈 관리.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\bin\Debug\netcoreapp3.1\용돈 관리.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\obj\Debug\netcoreapp3.1\용돈 관리.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\obj\Debug\netcoreapp3.1\용돈 관리.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\obj\Debug\netcoreapp3.1\용돈 관리.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\obj\Debug\netcoreapp3.1\용돈 관리.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\obj\Debug\netcoreapp3.1\용돈 관리.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\obj\Debug\netcoreapp3.1\용돈 관리.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\용돈 관리\obj\Debug\netcoreapp3.1\용돈 관리.csprojAssemblyReference.cache

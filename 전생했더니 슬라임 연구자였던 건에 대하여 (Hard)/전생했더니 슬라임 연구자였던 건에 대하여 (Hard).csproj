@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>전생했더니_슬라임_연구자였던_건에_대하여__Hard_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

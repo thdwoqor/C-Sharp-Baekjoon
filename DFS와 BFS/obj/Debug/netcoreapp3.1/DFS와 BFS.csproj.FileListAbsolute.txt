@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\bin\Debug\netcoreapp3.1\DFS와 BFS.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\bin\Debug\netcoreapp3.1\DFS와 BFS.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\bin\Debug\netcoreapp3.1\DFS와 BFS.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\bin\Debug\netcoreapp3.1\DFS와 BFS.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\bin\Debug\netcoreapp3.1\DFS와 BFS.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\bin\Debug\netcoreapp3.1\DFS와 BFS.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\obj\Debug\netcoreapp3.1\DFS와 BFS.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\obj\Debug\netcoreapp3.1\DFS와 BFS.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\obj\Debug\netcoreapp3.1\DFS와 BFS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\obj\Debug\netcoreapp3.1\DFS와 BFS.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\obj\Debug\netcoreapp3.1\DFS와 BFS.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\obj\Debug\netcoreapp3.1\DFS와 BFS.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\DFS와 BFS\obj\Debug\netcoreapp3.1\DFS와 BFS.csprojAssemblyReference.cache

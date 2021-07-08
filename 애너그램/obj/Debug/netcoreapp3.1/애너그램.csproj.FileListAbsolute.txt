@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\bin\Debug\netcoreapp3.1\애너그램.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\bin\Debug\netcoreapp3.1\애너그램.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\bin\Debug\netcoreapp3.1\애너그램.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\bin\Debug\netcoreapp3.1\애너그램.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\bin\Debug\netcoreapp3.1\애너그램.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\bin\Debug\netcoreapp3.1\애너그램.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\obj\Debug\netcoreapp3.1\애너그램.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\obj\Debug\netcoreapp3.1\애너그램.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\obj\Debug\netcoreapp3.1\애너그램.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\obj\Debug\netcoreapp3.1\애너그램.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\obj\Debug\netcoreapp3.1\애너그램.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\obj\Debug\netcoreapp3.1\애너그램.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\애너그램\obj\Debug\netcoreapp3.1\애너그램.genruntimeconfig.cache

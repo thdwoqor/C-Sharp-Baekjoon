@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "파일 옮기기/1.0.0": {
+        "runtime": {
+          "파일 옮기기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "파일 옮기기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

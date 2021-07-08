@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\bin\Debug\netcoreapp3.1\TV 크기.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\bin\Debug\netcoreapp3.1\TV 크기.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\bin\Debug\netcoreapp3.1\TV 크기.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\bin\Debug\netcoreapp3.1\TV 크기.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\bin\Debug\netcoreapp3.1\TV 크기.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\bin\Debug\netcoreapp3.1\TV 크기.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\obj\Debug\netcoreapp3.1\TV 크기.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\obj\Debug\netcoreapp3.1\TV 크기.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\obj\Debug\netcoreapp3.1\TV 크기.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\obj\Debug\netcoreapp3.1\TV 크기.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\obj\Debug\netcoreapp3.1\TV 크기.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\obj\Debug\netcoreapp3.1\TV 크기.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\TV 크기\obj\Debug\netcoreapp3.1\TV 크기.genruntimeconfig.cache

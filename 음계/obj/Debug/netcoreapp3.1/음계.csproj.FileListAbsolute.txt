@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\bin\Debug\netcoreapp3.1\음계.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\bin\Debug\netcoreapp3.1\음계.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\bin\Debug\netcoreapp3.1\음계.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\bin\Debug\netcoreapp3.1\음계.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\bin\Debug\netcoreapp3.1\음계.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\bin\Debug\netcoreapp3.1\음계.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\obj\Debug\netcoreapp3.1\음계.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\obj\Debug\netcoreapp3.1\음계.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\obj\Debug\netcoreapp3.1\음계.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\obj\Debug\netcoreapp3.1\음계.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\obj\Debug\netcoreapp3.1\음계.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\obj\Debug\netcoreapp3.1\음계.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\음계\obj\Debug\netcoreapp3.1\음계.csprojAssemblyReference.cache

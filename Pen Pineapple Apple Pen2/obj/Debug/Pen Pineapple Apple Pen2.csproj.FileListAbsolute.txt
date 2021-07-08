@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\Pen Pineapple Apple Pen2\bin\Debug\Pen Pineapple Apple Pen2.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp1112\Pen Pineapple Apple Pen2\bin\Debug\Pen Pineapple Apple Pen2.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\Pen Pineapple Apple Pen2\bin\Debug\Pen Pineapple Apple Pen2.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\Pen Pineapple Apple Pen2\obj\Debug\Pen Pineapple Apple Pen2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Pen Pineapple Apple Pen2\obj\Debug\Pen Pineapple Apple Pen2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Pen Pineapple Apple Pen2\obj\Debug\Pen Pineapple Apple Pen2.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\Pen Pineapple Apple Pen2\obj\Debug\Pen Pineapple Apple Pen2.pdb

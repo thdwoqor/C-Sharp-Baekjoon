@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\bin\Debug\netcoreapp3.1\이진수 변환.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\bin\Debug\netcoreapp3.1\이진수 변환.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\bin\Debug\netcoreapp3.1\이진수 변환.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\bin\Debug\netcoreapp3.1\이진수 변환.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\bin\Debug\netcoreapp3.1\이진수 변환.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\bin\Debug\netcoreapp3.1\이진수 변환.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\obj\Debug\netcoreapp3.1\이진수 변환.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\obj\Debug\netcoreapp3.1\이진수 변환.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\obj\Debug\netcoreapp3.1\이진수 변환.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\obj\Debug\netcoreapp3.1\이진수 변환.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\obj\Debug\netcoreapp3.1\이진수 변환.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\obj\Debug\netcoreapp3.1\이진수 변환.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\이진수 변환\obj\Debug\netcoreapp3.1\이진수 변환.genruntimeconfig.cache

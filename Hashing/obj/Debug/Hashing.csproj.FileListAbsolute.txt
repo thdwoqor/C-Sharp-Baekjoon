@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\Hashing\bin\Debug\Hashing.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp1112\Hashing\bin\Debug\Hashing.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\Hashing\bin\Debug\Hashing.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\Hashing\obj\Debug\Hashing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Hashing\obj\Debug\Hashing.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\Hashing\obj\Debug\Hashing.pdb

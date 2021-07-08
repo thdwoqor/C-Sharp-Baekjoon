@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\bin\Debug\netcoreapp3.1\사회망 서비스(SNS).exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\bin\Debug\netcoreapp3.1\사회망 서비스(SNS).deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\bin\Debug\netcoreapp3.1\사회망 서비스(SNS).runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\bin\Debug\netcoreapp3.1\사회망 서비스(SNS).runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\bin\Debug\netcoreapp3.1\사회망 서비스(SNS).dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\bin\Debug\netcoreapp3.1\사회망 서비스(SNS).pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\obj\Debug\netcoreapp3.1\사회망 서비스(SNS).AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\obj\Debug\netcoreapp3.1\사회망 서비스(SNS).AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\obj\Debug\netcoreapp3.1\사회망 서비스(SNS).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\obj\Debug\netcoreapp3.1\사회망 서비스(SNS).dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\obj\Debug\netcoreapp3.1\사회망 서비스(SNS).pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\obj\Debug\netcoreapp3.1\사회망 서비스(SNS).genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\사회망 서비스(SNS)\obj\Debug\netcoreapp3.1\사회망 서비스(SNS).csprojAssemblyReference.cache

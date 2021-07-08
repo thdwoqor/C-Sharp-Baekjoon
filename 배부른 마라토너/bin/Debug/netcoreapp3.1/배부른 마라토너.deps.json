@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "배부른 마라토너/1.0.0": {
+        "runtime": {
+          "배부른 마라토너.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "배부른 마라토너/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

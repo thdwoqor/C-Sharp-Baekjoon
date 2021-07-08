@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\bin\Debug\netcoreapp3.1\최고의 피자.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\bin\Debug\netcoreapp3.1\최고의 피자.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\bin\Debug\netcoreapp3.1\최고의 피자.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\bin\Debug\netcoreapp3.1\최고의 피자.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\bin\Debug\netcoreapp3.1\최고의 피자.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\bin\Debug\netcoreapp3.1\최고의 피자.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\obj\Debug\netcoreapp3.1\최고의 피자.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\obj\Debug\netcoreapp3.1\최고의 피자.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\obj\Debug\netcoreapp3.1\최고의 피자.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\obj\Debug\netcoreapp3.1\최고의 피자.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\obj\Debug\netcoreapp3.1\최고의 피자.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\최고의 피자\obj\Debug\netcoreapp3.1\최고의 피자.genruntimeconfig.cache

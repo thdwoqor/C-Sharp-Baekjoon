@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\bin\Debug\netcoreapp3.1\트리의 순회.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\bin\Debug\netcoreapp3.1\트리의 순회.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\bin\Debug\netcoreapp3.1\트리의 순회.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\bin\Debug\netcoreapp3.1\트리의 순회.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\bin\Debug\netcoreapp3.1\트리의 순회.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\bin\Debug\netcoreapp3.1\트리의 순회.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\obj\Debug\netcoreapp3.1\트리의 순회.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\obj\Debug\netcoreapp3.1\트리의 순회.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\obj\Debug\netcoreapp3.1\트리의 순회.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\obj\Debug\netcoreapp3.1\트리의 순회.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\obj\Debug\netcoreapp3.1\트리의 순회.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\obj\Debug\netcoreapp3.1\트리의 순회.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\트리의 순회\obj\Debug\netcoreapp3.1\트리의 순회.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "아시아 정보올림피아드/1.0.0": {
+        "runtime": {
+          "아시아 정보올림피아드.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "아시아 정보올림피아드/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

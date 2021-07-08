@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\obj\Debug\netcoreapp3.1\!밀비 급일.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\obj\Debug\netcoreapp3.1\!밀비 급일.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\obj\Debug\netcoreapp3.1\!밀비 급일.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\bin\Debug\netcoreapp3.1\!밀비 급일.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\bin\Debug\netcoreapp3.1\!밀비 급일.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\bin\Debug\netcoreapp3.1\!밀비 급일.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\bin\Debug\netcoreapp3.1\!밀비 급일.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\bin\Debug\netcoreapp3.1\!밀비 급일.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\bin\Debug\netcoreapp3.1\!밀비 급일.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\obj\Debug\netcoreapp3.1\!밀비 급일.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\obj\Debug\netcoreapp3.1\!밀비 급일.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\!밀비 급일\obj\Debug\netcoreapp3.1\!밀비 급일.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\bin\Debug\netcoreapp3.1\패션왕 신해빈.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\bin\Debug\netcoreapp3.1\패션왕 신해빈.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\bin\Debug\netcoreapp3.1\패션왕 신해빈.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\bin\Debug\netcoreapp3.1\패션왕 신해빈.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\bin\Debug\netcoreapp3.1\패션왕 신해빈.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\bin\Debug\netcoreapp3.1\패션왕 신해빈.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\obj\Debug\netcoreapp3.1\패션왕 신해빈.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\obj\Debug\netcoreapp3.1\패션왕 신해빈.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\obj\Debug\netcoreapp3.1\패션왕 신해빈.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\obj\Debug\netcoreapp3.1\패션왕 신해빈.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\obj\Debug\netcoreapp3.1\패션왕 신해빈.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\obj\Debug\netcoreapp3.1\패션왕 신해빈.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\패션왕 신해빈\obj\Debug\netcoreapp3.1\패션왕 신해빈.csprojAssemblyReference.cache

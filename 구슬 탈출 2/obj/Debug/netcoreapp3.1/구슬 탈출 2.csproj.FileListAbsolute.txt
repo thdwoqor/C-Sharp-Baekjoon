@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\bin\Debug\netcoreapp3.1\구슬 탈출 2.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\bin\Debug\netcoreapp3.1\구슬 탈출 2.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\bin\Debug\netcoreapp3.1\구슬 탈출 2.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\bin\Debug\netcoreapp3.1\구슬 탈출 2.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\bin\Debug\netcoreapp3.1\구슬 탈출 2.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\bin\Debug\netcoreapp3.1\구슬 탈출 2.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\obj\Debug\netcoreapp3.1\구슬 탈출 2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\obj\Debug\netcoreapp3.1\구슬 탈출 2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\obj\Debug\netcoreapp3.1\구슬 탈출 2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\obj\Debug\netcoreapp3.1\구슬 탈출 2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\obj\Debug\netcoreapp3.1\구슬 탈출 2.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\obj\Debug\netcoreapp3.1\구슬 탈출 2.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\구슬 탈출 2\obj\Debug\netcoreapp3.1\구슬 탈출 2.genruntimeconfig.cache

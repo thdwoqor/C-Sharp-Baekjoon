@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "더하기 사이클/1.0.0": {
+        "runtime": {
+          "더하기 사이클.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "더하기 사이클/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

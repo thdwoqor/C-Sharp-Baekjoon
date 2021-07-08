@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\bin\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\bin\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\bin\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\bin\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\bin\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\bin\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\obj\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\obj\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\obj\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\obj\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\obj\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\obj\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\벽_부수고_이동하기 BFS\obj\Debug\netcoreapp3.1\벽_부수고_이동하기 BFS.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "벽_부수고_이동하기 BFS/1.0.0": {
+        "runtime": {
+          "벽_부수고_이동하기 BFS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "벽_부수고_이동하기 BFS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\bin\Debug\netcoreapp3.1\재귀.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\bin\Debug\netcoreapp3.1\재귀.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\bin\Debug\netcoreapp3.1\재귀.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\bin\Debug\netcoreapp3.1\재귀.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\bin\Debug\netcoreapp3.1\재귀.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\bin\Debug\netcoreapp3.1\재귀.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\obj\Debug\netcoreapp3.1\재귀.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\obj\Debug\netcoreapp3.1\재귀.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\obj\Debug\netcoreapp3.1\재귀.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\obj\Debug\netcoreapp3.1\재귀.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\obj\Debug\netcoreapp3.1\재귀.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\재귀\obj\Debug\netcoreapp3.1\재귀.genruntimeconfig.cache

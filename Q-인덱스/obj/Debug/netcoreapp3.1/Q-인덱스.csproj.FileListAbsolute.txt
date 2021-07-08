@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\obj\Debug\netcoreapp3.1\Q-인덱스.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\obj\Debug\netcoreapp3.1\Q-인덱스.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\obj\Debug\netcoreapp3.1\Q-인덱스.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\bin\Debug\netcoreapp3.1\Q-인덱스.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\bin\Debug\netcoreapp3.1\Q-인덱스.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\bin\Debug\netcoreapp3.1\Q-인덱스.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\bin\Debug\netcoreapp3.1\Q-인덱스.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\bin\Debug\netcoreapp3.1\Q-인덱스.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\bin\Debug\netcoreapp3.1\Q-인덱스.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\obj\Debug\netcoreapp3.1\Q-인덱스.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\obj\Debug\netcoreapp3.1\Q-인덱스.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\obj\Debug\netcoreapp3.1\Q-인덱스.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Q-인덱스\obj\Debug\netcoreapp3.1\Q-인덱스.csprojAssemblyReference.cache

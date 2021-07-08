@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "벽 부수고 이동하기/1.0.0": {
+        "runtime": {
+          "벽 부수고 이동하기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "벽 부수고 이동하기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

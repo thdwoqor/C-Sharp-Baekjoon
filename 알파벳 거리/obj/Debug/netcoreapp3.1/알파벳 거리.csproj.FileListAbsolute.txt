@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\bin\Debug\netcoreapp3.1\알파벳 거리.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\bin\Debug\netcoreapp3.1\알파벳 거리.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\bin\Debug\netcoreapp3.1\알파벳 거리.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\bin\Debug\netcoreapp3.1\알파벳 거리.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\bin\Debug\netcoreapp3.1\알파벳 거리.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\bin\Debug\netcoreapp3.1\알파벳 거리.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\obj\Debug\netcoreapp3.1\알파벳 거리.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\obj\Debug\netcoreapp3.1\알파벳 거리.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\obj\Debug\netcoreapp3.1\알파벳 거리.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\obj\Debug\netcoreapp3.1\알파벳 거리.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\obj\Debug\netcoreapp3.1\알파벳 거리.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\알파벳 거리\obj\Debug\netcoreapp3.1\알파벳 거리.genruntimeconfig.cache

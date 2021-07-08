@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\bin\Debug\netcoreapp3.1\수열.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\bin\Debug\netcoreapp3.1\수열.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\bin\Debug\netcoreapp3.1\수열.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\bin\Debug\netcoreapp3.1\수열.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\bin\Debug\netcoreapp3.1\수열.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\bin\Debug\netcoreapp3.1\수열.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\obj\Debug\netcoreapp3.1\수열.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\obj\Debug\netcoreapp3.1\수열.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\obj\Debug\netcoreapp3.1\수열.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\obj\Debug\netcoreapp3.1\수열.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\obj\Debug\netcoreapp3.1\수열.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\obj\Debug\netcoreapp3.1\수열.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\수열\obj\Debug\netcoreapp3.1\수열.genruntimeconfig.cache

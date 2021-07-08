@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\bin\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\bin\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\bin\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\bin\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\bin\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\bin\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\obj\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\obj\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\obj\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\obj\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\obj\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\obj\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\한윤정이 이탈리아에 가서 아이스크림을 사먹는데\obj\Debug\netcoreapp3.1\한윤정이 이탈리아에 가서 아이스크림을 사먹는데.genruntimeconfig.cache

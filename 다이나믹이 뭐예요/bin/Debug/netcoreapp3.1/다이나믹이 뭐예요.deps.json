@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "다이나믹이 뭐예요/1.0.0": {
+        "runtime": {
+          "다이나믹이 뭐예요.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "다이나믹이 뭐예요/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\bin\Debug\netcoreapp3.1\평균.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\bin\Debug\netcoreapp3.1\평균.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\bin\Debug\netcoreapp3.1\평균.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\bin\Debug\netcoreapp3.1\평균.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\bin\Debug\netcoreapp3.1\평균.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\bin\Debug\netcoreapp3.1\평균.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\obj\Debug\netcoreapp3.1\평균.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\obj\Debug\netcoreapp3.1\평균.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\obj\Debug\netcoreapp3.1\평균.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\obj\Debug\netcoreapp3.1\평균.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\obj\Debug\netcoreapp3.1\평균.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\평균\obj\Debug\netcoreapp3.1\평균.genruntimeconfig.cache

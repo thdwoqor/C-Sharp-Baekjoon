@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\bin\Debug\netcoreapp3.1\아기 상어.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\bin\Debug\netcoreapp3.1\아기 상어.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\bin\Debug\netcoreapp3.1\아기 상어.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\bin\Debug\netcoreapp3.1\아기 상어.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\bin\Debug\netcoreapp3.1\아기 상어.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\bin\Debug\netcoreapp3.1\아기 상어.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\obj\Debug\netcoreapp3.1\아기 상어.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\obj\Debug\netcoreapp3.1\아기 상어.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\obj\Debug\netcoreapp3.1\아기 상어.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\obj\Debug\netcoreapp3.1\아기 상어.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\obj\Debug\netcoreapp3.1\아기 상어.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\아기 상어\obj\Debug\netcoreapp3.1\아기 상어.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\bin\Debug\netcoreapp3.1\근손실.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\bin\Debug\netcoreapp3.1\근손실.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\bin\Debug\netcoreapp3.1\근손실.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\bin\Debug\netcoreapp3.1\근손실.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\bin\Debug\netcoreapp3.1\근손실.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\bin\Debug\netcoreapp3.1\근손실.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\obj\Debug\netcoreapp3.1\근손실.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\obj\Debug\netcoreapp3.1\근손실.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\obj\Debug\netcoreapp3.1\근손실.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\obj\Debug\netcoreapp3.1\근손실.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\obj\Debug\netcoreapp3.1\근손실.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\obj\Debug\netcoreapp3.1\근손실.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\근손실\obj\Debug\netcoreapp3.1\근손실.genruntimeconfig.cache

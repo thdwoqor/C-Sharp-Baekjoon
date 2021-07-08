@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\bin\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\bin\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\bin\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\bin\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\bin\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\bin\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\obj\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\obj\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\obj\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\obj\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\obj\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\obj\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\맥주 마시면서 걸어가기\obj\Debug\netcoreapp3.1\맥주 마시면서 걸어가기.genruntimeconfig.cache

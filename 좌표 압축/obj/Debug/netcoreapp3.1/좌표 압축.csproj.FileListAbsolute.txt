@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\bin\Debug\netcoreapp3.1\좌표 압축.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\bin\Debug\netcoreapp3.1\좌표 압축.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\bin\Debug\netcoreapp3.1\좌표 압축.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\bin\Debug\netcoreapp3.1\좌표 압축.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\bin\Debug\netcoreapp3.1\좌표 압축.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\bin\Debug\netcoreapp3.1\좌표 압축.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\obj\Debug\netcoreapp3.1\좌표 압축.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\obj\Debug\netcoreapp3.1\좌표 압축.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\obj\Debug\netcoreapp3.1\좌표 압축.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\obj\Debug\netcoreapp3.1\좌표 압축.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\obj\Debug\netcoreapp3.1\좌표 압축.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\obj\Debug\netcoreapp3.1\좌표 압축.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\좌표 압축\obj\Debug\netcoreapp3.1\좌표 압축.genruntimeconfig.cache

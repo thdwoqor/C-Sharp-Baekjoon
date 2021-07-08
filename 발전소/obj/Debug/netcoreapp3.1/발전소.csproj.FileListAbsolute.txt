@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\bin\Debug\netcoreapp3.1\발전소.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\bin\Debug\netcoreapp3.1\발전소.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\bin\Debug\netcoreapp3.1\발전소.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\bin\Debug\netcoreapp3.1\발전소.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\bin\Debug\netcoreapp3.1\발전소.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\bin\Debug\netcoreapp3.1\발전소.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\obj\Debug\netcoreapp3.1\발전소.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\obj\Debug\netcoreapp3.1\발전소.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\obj\Debug\netcoreapp3.1\발전소.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\obj\Debug\netcoreapp3.1\발전소.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\obj\Debug\netcoreapp3.1\발전소.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\obj\Debug\netcoreapp3.1\발전소.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\발전소\obj\Debug\netcoreapp3.1\발전소.csprojAssemblyReference.cache

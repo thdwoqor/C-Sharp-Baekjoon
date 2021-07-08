@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "히스토그램에서 가장 큰 직사각형/1.0.0": {
+        "runtime": {
+          "히스토그램에서 가장 큰 직사각형.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "히스토그램에서 가장 큰 직사각형/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

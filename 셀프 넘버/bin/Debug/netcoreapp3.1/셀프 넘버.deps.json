@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "셀프 넘버/1.0.0": {
+        "runtime": {
+          "셀프 넘버.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "셀프 넘버/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

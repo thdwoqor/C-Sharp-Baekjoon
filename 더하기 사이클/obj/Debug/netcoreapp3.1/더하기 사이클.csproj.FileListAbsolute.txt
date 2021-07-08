@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\bin\Debug\netcoreapp3.1\더하기 사이클.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\bin\Debug\netcoreapp3.1\더하기 사이클.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\bin\Debug\netcoreapp3.1\더하기 사이클.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\bin\Debug\netcoreapp3.1\더하기 사이클.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\bin\Debug\netcoreapp3.1\더하기 사이클.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\bin\Debug\netcoreapp3.1\더하기 사이클.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\obj\Debug\netcoreapp3.1\더하기 사이클.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\obj\Debug\netcoreapp3.1\더하기 사이클.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\obj\Debug\netcoreapp3.1\더하기 사이클.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\obj\Debug\netcoreapp3.1\더하기 사이클.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\obj\Debug\netcoreapp3.1\더하기 사이클.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\obj\Debug\netcoreapp3.1\더하기 사이클.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\더하기 사이클\obj\Debug\netcoreapp3.1\더하기 사이클.genruntimeconfig.cache

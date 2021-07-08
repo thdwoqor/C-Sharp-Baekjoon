@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\bin\Debug\netcoreapp3.1\단어 공부.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\bin\Debug\netcoreapp3.1\단어 공부.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\bin\Debug\netcoreapp3.1\단어 공부.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\bin\Debug\netcoreapp3.1\단어 공부.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\bin\Debug\netcoreapp3.1\단어 공부.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\bin\Debug\netcoreapp3.1\단어 공부.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\obj\Debug\netcoreapp3.1\단어 공부.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\obj\Debug\netcoreapp3.1\단어 공부.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\obj\Debug\netcoreapp3.1\단어 공부.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\obj\Debug\netcoreapp3.1\단어 공부.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\obj\Debug\netcoreapp3.1\단어 공부.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어 공부\obj\Debug\netcoreapp3.1\단어 공부.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\bin\Debug\netcoreapp3.1\평범한 배낭.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\bin\Debug\netcoreapp3.1\평범한 배낭.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\bin\Debug\netcoreapp3.1\평범한 배낭.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\bin\Debug\netcoreapp3.1\평범한 배낭.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\bin\Debug\netcoreapp3.1\평범한 배낭.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\bin\Debug\netcoreapp3.1\평범한 배낭.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\obj\Debug\netcoreapp3.1\평범한 배낭.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\obj\Debug\netcoreapp3.1\평범한 배낭.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\obj\Debug\netcoreapp3.1\평범한 배낭.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\obj\Debug\netcoreapp3.1\평범한 배낭.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\obj\Debug\netcoreapp3.1\평범한 배낭.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\obj\Debug\netcoreapp3.1\평범한 배낭.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\평범한 배낭\obj\Debug\netcoreapp3.1\평범한 배낭.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\bin\Debug\netcoreapp3.1\부분배열 고르기.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\bin\Debug\netcoreapp3.1\부분배열 고르기.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\bin\Debug\netcoreapp3.1\부분배열 고르기.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\bin\Debug\netcoreapp3.1\부분배열 고르기.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\bin\Debug\netcoreapp3.1\부분배열 고르기.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\bin\Debug\netcoreapp3.1\부분배열 고르기.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\obj\Debug\netcoreapp3.1\부분배열 고르기.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\obj\Debug\netcoreapp3.1\부분배열 고르기.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\obj\Debug\netcoreapp3.1\부분배열 고르기.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\obj\Debug\netcoreapp3.1\부분배열 고르기.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\obj\Debug\netcoreapp3.1\부분배열 고르기.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\obj\Debug\netcoreapp3.1\부분배열 고르기.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\부분배열 고르기\obj\Debug\netcoreapp3.1\부분배열 고르기.genruntimeconfig.cache

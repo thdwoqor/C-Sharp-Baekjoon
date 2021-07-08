@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\bin\Debug\netcoreapp3.1\좋은 단어.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\bin\Debug\netcoreapp3.1\좋은 단어.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\bin\Debug\netcoreapp3.1\좋은 단어.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\bin\Debug\netcoreapp3.1\좋은 단어.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\bin\Debug\netcoreapp3.1\좋은 단어.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\bin\Debug\netcoreapp3.1\좋은 단어.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\obj\Debug\netcoreapp3.1\좋은 단어.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\obj\Debug\netcoreapp3.1\좋은 단어.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\obj\Debug\netcoreapp3.1\좋은 단어.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\obj\Debug\netcoreapp3.1\좋은 단어.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\obj\Debug\netcoreapp3.1\좋은 단어.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\obj\Debug\netcoreapp3.1\좋은 단어.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\좋은 단어\obj\Debug\netcoreapp3.1\좋은 단어.genruntimeconfig.cache

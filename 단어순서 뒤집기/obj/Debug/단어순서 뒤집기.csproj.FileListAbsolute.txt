@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어순서 뒤집기\bin\Debug\단어순서 뒤집기.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어순서 뒤집기\bin\Debug\단어순서 뒤집기.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어순서 뒤집기\bin\Debug\단어순서 뒤집기.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어순서 뒤집기\obj\Debug\단어순서 뒤집기.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어순서 뒤집기\obj\Debug\단어순서 뒤집기.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어순서 뒤집기\obj\Debug\단어순서 뒤집기.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\단어순서 뒤집기\obj\Debug\단어순서 뒤집기.pdb

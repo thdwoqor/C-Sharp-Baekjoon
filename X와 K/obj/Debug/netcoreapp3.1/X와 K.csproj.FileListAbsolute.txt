@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\bin\Debug\netcoreapp3.1\X와 K.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\bin\Debug\netcoreapp3.1\X와 K.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\bin\Debug\netcoreapp3.1\X와 K.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\bin\Debug\netcoreapp3.1\X와 K.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\bin\Debug\netcoreapp3.1\X와 K.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\bin\Debug\netcoreapp3.1\X와 K.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\obj\Debug\netcoreapp3.1\X와 K.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\obj\Debug\netcoreapp3.1\X와 K.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\obj\Debug\netcoreapp3.1\X와 K.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\obj\Debug\netcoreapp3.1\X와 K.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\obj\Debug\netcoreapp3.1\X와 K.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\obj\Debug\netcoreapp3.1\X와 K.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\X와 K\obj\Debug\netcoreapp3.1\X와 K.csprojAssemblyReference.cache

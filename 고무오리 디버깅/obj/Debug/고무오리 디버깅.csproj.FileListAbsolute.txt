@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\bin\Debug\고무오리 디버깅.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\bin\Debug\고무오리 디버깅.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\bin\Debug\고무오리 디버깅.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Debug\고무오리 디버깅.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Debug\고무오리 디버깅.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Debug\고무오리 디버깅.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Debug\고무오리 디버깅.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Debug\고무오리_디버깅.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Debug\고무오리 디버깅.csproj.GenerateResource.cache

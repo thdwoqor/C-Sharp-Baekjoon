@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\bin\Debug\netcoreapp3.1\감시.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\bin\Debug\netcoreapp3.1\감시.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\bin\Debug\netcoreapp3.1\감시.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\bin\Debug\netcoreapp3.1\감시.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\bin\Debug\netcoreapp3.1\감시.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\bin\Debug\netcoreapp3.1\감시.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\obj\Debug\netcoreapp3.1\감시.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\obj\Debug\netcoreapp3.1\감시.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\obj\Debug\netcoreapp3.1\감시.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\obj\Debug\netcoreapp3.1\감시.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\obj\Debug\netcoreapp3.1\감시.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\감시\obj\Debug\netcoreapp3.1\감시.genruntimeconfig.cache

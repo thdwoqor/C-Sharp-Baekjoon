@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\bin\Debug\netcoreapp3.1\다리 놓기.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\bin\Debug\netcoreapp3.1\다리 놓기.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\bin\Debug\netcoreapp3.1\다리 놓기.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\bin\Debug\netcoreapp3.1\다리 놓기.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\bin\Debug\netcoreapp3.1\다리 놓기.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\bin\Debug\netcoreapp3.1\다리 놓기.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\obj\Debug\netcoreapp3.1\다리 놓기.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\obj\Debug\netcoreapp3.1\다리 놓기.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\obj\Debug\netcoreapp3.1\다리 놓기.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\obj\Debug\netcoreapp3.1\다리 놓기.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\obj\Debug\netcoreapp3.1\다리 놓기.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\다리 놓기\obj\Debug\netcoreapp3.1\다리 놓기.genruntimeconfig.cache

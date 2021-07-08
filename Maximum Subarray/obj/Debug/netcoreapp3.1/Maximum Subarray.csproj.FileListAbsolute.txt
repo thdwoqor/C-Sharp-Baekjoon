@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\bin\Debug\netcoreapp3.1\Maximum Subarray.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\bin\Debug\netcoreapp3.1\Maximum Subarray.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\bin\Debug\netcoreapp3.1\Maximum Subarray.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\bin\Debug\netcoreapp3.1\Maximum Subarray.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\bin\Debug\netcoreapp3.1\Maximum Subarray.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\bin\Debug\netcoreapp3.1\Maximum Subarray.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\obj\Debug\netcoreapp3.1\Maximum Subarray.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\obj\Debug\netcoreapp3.1\Maximum Subarray.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\obj\Debug\netcoreapp3.1\Maximum Subarray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\obj\Debug\netcoreapp3.1\Maximum Subarray.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\obj\Debug\netcoreapp3.1\Maximum Subarray.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\obj\Debug\netcoreapp3.1\Maximum Subarray.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Maximum Subarray\obj\Debug\netcoreapp3.1\Maximum Subarray.csprojAssemblyReference.cache

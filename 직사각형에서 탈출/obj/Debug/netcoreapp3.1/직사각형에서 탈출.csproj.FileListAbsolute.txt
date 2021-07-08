@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\bin\Debug\netcoreapp3.1\직사각형에서 탈출.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\bin\Debug\netcoreapp3.1\직사각형에서 탈출.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\bin\Debug\netcoreapp3.1\직사각형에서 탈출.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\bin\Debug\netcoreapp3.1\직사각형에서 탈출.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\bin\Debug\netcoreapp3.1\직사각형에서 탈출.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\bin\Debug\netcoreapp3.1\직사각형에서 탈출.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\obj\Debug\netcoreapp3.1\직사각형에서 탈출.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\obj\Debug\netcoreapp3.1\직사각형에서 탈출.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\obj\Debug\netcoreapp3.1\직사각형에서 탈출.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\obj\Debug\netcoreapp3.1\직사각형에서 탈출.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\obj\Debug\netcoreapp3.1\직사각형에서 탈출.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\obj\Debug\netcoreapp3.1\직사각형에서 탈출.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\직사각형에서 탈출\obj\Debug\netcoreapp3.1\직사각형에서 탈출.genruntimeconfig.cache

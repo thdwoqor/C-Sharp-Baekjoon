@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\bin\Debug\netcoreapp3.1\쉬운 계단 수.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\bin\Debug\netcoreapp3.1\쉬운 계단 수.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\bin\Debug\netcoreapp3.1\쉬운 계단 수.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\bin\Debug\netcoreapp3.1\쉬운 계단 수.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\bin\Debug\netcoreapp3.1\쉬운 계단 수.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\bin\Debug\netcoreapp3.1\쉬운 계단 수.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\obj\Debug\netcoreapp3.1\쉬운 계단 수.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\obj\Debug\netcoreapp3.1\쉬운 계단 수.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\obj\Debug\netcoreapp3.1\쉬운 계단 수.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\obj\Debug\netcoreapp3.1\쉬운 계단 수.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\obj\Debug\netcoreapp3.1\쉬운 계단 수.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\obj\Debug\netcoreapp3.1\쉬운 계단 수.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\쉬운 계단 수\obj\Debug\netcoreapp3.1\쉬운 계단 수.genruntimeconfig.cache

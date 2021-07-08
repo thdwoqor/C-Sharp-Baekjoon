@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\ACM 호텔\bin\Debug\ACM 호텔.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp1112\ACM 호텔\bin\Debug\ACM 호텔.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\ACM 호텔\bin\Debug\ACM 호텔.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\ACM 호텔\obj\Debug\ACM 호텔.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\ACM 호텔\obj\Debug\ACM 호텔.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\ACM 호텔\obj\Debug\ACM 호텔.pdb

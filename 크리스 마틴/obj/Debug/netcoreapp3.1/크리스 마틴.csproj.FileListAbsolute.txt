@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\bin\Debug\netcoreapp3.1\크리스 마틴.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\bin\Debug\netcoreapp3.1\크리스 마틴.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\bin\Debug\netcoreapp3.1\크리스 마틴.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\bin\Debug\netcoreapp3.1\크리스 마틴.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\bin\Debug\netcoreapp3.1\크리스 마틴.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\bin\Debug\netcoreapp3.1\크리스 마틴.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\obj\Debug\netcoreapp3.1\크리스 마틴.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\obj\Debug\netcoreapp3.1\크리스 마틴.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\obj\Debug\netcoreapp3.1\크리스 마틴.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\obj\Debug\netcoreapp3.1\크리스 마틴.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\obj\Debug\netcoreapp3.1\크리스 마틴.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\obj\Debug\netcoreapp3.1\크리스 마틴.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\크리스 마틴\obj\Debug\netcoreapp3.1\크리스 마틴.genruntimeconfig.cache

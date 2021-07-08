@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\bin\Debug\netcoreapp3.1\미세먼지 안녕!.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\bin\Debug\netcoreapp3.1\미세먼지 안녕!.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\bin\Debug\netcoreapp3.1\미세먼지 안녕!.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\bin\Debug\netcoreapp3.1\미세먼지 안녕!.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\bin\Debug\netcoreapp3.1\미세먼지 안녕!.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\bin\Debug\netcoreapp3.1\미세먼지 안녕!.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\obj\Debug\netcoreapp3.1\미세먼지 안녕!.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\obj\Debug\netcoreapp3.1\미세먼지 안녕!.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\obj\Debug\netcoreapp3.1\미세먼지 안녕!.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\obj\Debug\netcoreapp3.1\미세먼지 안녕!.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\obj\Debug\netcoreapp3.1\미세먼지 안녕!.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\미세먼지 안녕!\obj\Debug\netcoreapp3.1\미세먼지 안녕!.genruntimeconfig.cache

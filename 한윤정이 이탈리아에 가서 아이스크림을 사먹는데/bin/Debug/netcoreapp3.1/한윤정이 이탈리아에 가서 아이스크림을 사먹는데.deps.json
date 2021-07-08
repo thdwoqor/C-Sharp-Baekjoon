@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "한윤정이 이탈리아에 가서 아이스크림을 사먹는데/1.0.0": {
+        "runtime": {
+          "한윤정이 이탈리아에 가서 아이스크림을 사먹는데.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "한윤정이 이탈리아에 가서 아이스크림을 사먹는데/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

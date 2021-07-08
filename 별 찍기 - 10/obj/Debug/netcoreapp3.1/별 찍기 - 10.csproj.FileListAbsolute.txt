@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\bin\Debug\netcoreapp3.1\별 찍기 - 10.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\bin\Debug\netcoreapp3.1\별 찍기 - 10.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\bin\Debug\netcoreapp3.1\별 찍기 - 10.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\bin\Debug\netcoreapp3.1\별 찍기 - 10.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\bin\Debug\netcoreapp3.1\별 찍기 - 10.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\bin\Debug\netcoreapp3.1\별 찍기 - 10.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\obj\Debug\netcoreapp3.1\별 찍기 - 10.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\obj\Debug\netcoreapp3.1\별 찍기 - 10.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\obj\Debug\netcoreapp3.1\별 찍기 - 10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\obj\Debug\netcoreapp3.1\별 찍기 - 10.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\obj\Debug\netcoreapp3.1\별 찍기 - 10.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\obj\Debug\netcoreapp3.1\별 찍기 - 10.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\별 찍기 - 10\obj\Debug\netcoreapp3.1\별 찍기 - 10.csprojAssemblyReference.cache

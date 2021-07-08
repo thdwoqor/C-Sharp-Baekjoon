@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\bin\Debug\netcoreapp3.1\Java vs C++.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\bin\Debug\netcoreapp3.1\Java vs C++.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\bin\Debug\netcoreapp3.1\Java vs C++.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\bin\Debug\netcoreapp3.1\Java vs C++.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\bin\Debug\netcoreapp3.1\Java vs C++.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\bin\Debug\netcoreapp3.1\Java vs C++.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\obj\Debug\netcoreapp3.1\Java vs C++.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\obj\Debug\netcoreapp3.1\Java vs C++.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\obj\Debug\netcoreapp3.1\Java vs C++.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\obj\Debug\netcoreapp3.1\Java vs C++.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\obj\Debug\netcoreapp3.1\Java vs C++.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\Java vs C++\obj\Debug\netcoreapp3.1\Java vs C++.genruntimeconfig.cache

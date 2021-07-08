@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\bin\Debug\netcoreapp3.1\시리얼 번호.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\bin\Debug\netcoreapp3.1\시리얼 번호.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\bin\Debug\netcoreapp3.1\시리얼 번호.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\bin\Debug\netcoreapp3.1\시리얼 번호.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\bin\Debug\netcoreapp3.1\시리얼 번호.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\bin\Debug\netcoreapp3.1\시리얼 번호.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\obj\Debug\netcoreapp3.1\시리얼 번호.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\obj\Debug\netcoreapp3.1\시리얼 번호.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\obj\Debug\netcoreapp3.1\시리얼 번호.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\obj\Debug\netcoreapp3.1\시리얼 번호.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\obj\Debug\netcoreapp3.1\시리얼 번호.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\obj\Debug\netcoreapp3.1\시리얼 번호.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\시리얼 번호\obj\Debug\netcoreapp3.1\시리얼 번호.csprojAssemblyReference.cache

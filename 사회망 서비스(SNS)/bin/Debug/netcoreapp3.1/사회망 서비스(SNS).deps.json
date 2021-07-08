@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "사회망 서비스(SNS)/1.0.0": {
+        "runtime": {
+          "사회망 서비스(SNS).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "사회망 서비스(SNS)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

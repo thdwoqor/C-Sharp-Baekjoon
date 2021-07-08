@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\bin\Debug\netcoreapp3.1\기타 레슨.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\bin\Debug\netcoreapp3.1\기타 레슨.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\bin\Debug\netcoreapp3.1\기타 레슨.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\bin\Debug\netcoreapp3.1\기타 레슨.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\bin\Debug\netcoreapp3.1\기타 레슨.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\bin\Debug\netcoreapp3.1\기타 레슨.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\obj\Debug\netcoreapp3.1\기타 레슨.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\obj\Debug\netcoreapp3.1\기타 레슨.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\obj\Debug\netcoreapp3.1\기타 레슨.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\obj\Debug\netcoreapp3.1\기타 레슨.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\obj\Debug\netcoreapp3.1\기타 레슨.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\obj\Debug\netcoreapp3.1\기타 레슨.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\기타 레슨\obj\Debug\netcoreapp3.1\기타 레슨.csprojAssemblyReference.cache

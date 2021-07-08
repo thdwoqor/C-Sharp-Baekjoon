@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\bin\Debug\netcoreapp3.1\우수 마을.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\bin\Debug\netcoreapp3.1\우수 마을.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\bin\Debug\netcoreapp3.1\우수 마을.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\bin\Debug\netcoreapp3.1\우수 마을.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\bin\Debug\netcoreapp3.1\우수 마을.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\bin\Debug\netcoreapp3.1\우수 마을.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\obj\Debug\netcoreapp3.1\우수 마을.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\obj\Debug\netcoreapp3.1\우수 마을.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\obj\Debug\netcoreapp3.1\우수 마을.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\obj\Debug\netcoreapp3.1\우수 마을.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\obj\Debug\netcoreapp3.1\우수 마을.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\obj\Debug\netcoreapp3.1\우수 마을.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\우수 마을\obj\Debug\netcoreapp3.1\우수 마을.genruntimeconfig.cache

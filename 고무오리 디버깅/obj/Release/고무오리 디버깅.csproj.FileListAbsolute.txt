@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\bin\Release\고무오리 디버깅.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\bin\Release\고무오리 디버깅.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\bin\Release\고무오리 디버깅.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Release\고무오리 디버깅.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Release\고무오리 디버깅.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Release\고무오리 디버깅.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\고무오리 디버깅\obj\Release\고무오리 디버깅.pdb

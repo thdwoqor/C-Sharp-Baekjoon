@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\bin\Debug\netcoreapp3.1\배부른 마라토너.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\bin\Debug\netcoreapp3.1\배부른 마라토너.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\bin\Debug\netcoreapp3.1\배부른 마라토너.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\bin\Debug\netcoreapp3.1\배부른 마라토너.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\bin\Debug\netcoreapp3.1\배부른 마라토너.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\bin\Debug\netcoreapp3.1\배부른 마라토너.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\obj\Debug\netcoreapp3.1\배부른 마라토너.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\obj\Debug\netcoreapp3.1\배부른 마라토너.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\obj\Debug\netcoreapp3.1\배부른 마라토너.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\obj\Debug\netcoreapp3.1\배부른 마라토너.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\obj\Debug\netcoreapp3.1\배부른 마라토너.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\obj\Debug\netcoreapp3.1\배부른 마라토너.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\배부른 마라토너\obj\Debug\netcoreapp3.1\배부른 마라토너.csprojAssemblyReference.cache

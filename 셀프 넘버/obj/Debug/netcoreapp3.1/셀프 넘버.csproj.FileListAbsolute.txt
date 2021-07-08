@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\bin\Debug\netcoreapp3.1\셀프 넘버.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\bin\Debug\netcoreapp3.1\셀프 넘버.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\bin\Debug\netcoreapp3.1\셀프 넘버.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\bin\Debug\netcoreapp3.1\셀프 넘버.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\bin\Debug\netcoreapp3.1\셀프 넘버.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\bin\Debug\netcoreapp3.1\셀프 넘버.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\obj\Debug\netcoreapp3.1\셀프 넘버.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\obj\Debug\netcoreapp3.1\셀프 넘버.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\obj\Debug\netcoreapp3.1\셀프 넘버.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\obj\Debug\netcoreapp3.1\셀프 넘버.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\obj\Debug\netcoreapp3.1\셀프 넘버.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\obj\Debug\netcoreapp3.1\셀프 넘버.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\셀프 넘버\obj\Debug\netcoreapp3.1\셀프 넘버.csprojAssemblyReference.cache

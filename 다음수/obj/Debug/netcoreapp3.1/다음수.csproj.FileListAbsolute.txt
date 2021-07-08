@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\bin\Debug\netcoreapp3.1\다음수.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\bin\Debug\netcoreapp3.1\다음수.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\bin\Debug\netcoreapp3.1\다음수.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\bin\Debug\netcoreapp3.1\다음수.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\bin\Debug\netcoreapp3.1\다음수.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\bin\Debug\netcoreapp3.1\다음수.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\obj\Debug\netcoreapp3.1\다음수.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\obj\Debug\netcoreapp3.1\다음수.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\obj\Debug\netcoreapp3.1\다음수.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\obj\Debug\netcoreapp3.1\다음수.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\obj\Debug\netcoreapp3.1\다음수.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\다음수\obj\Debug\netcoreapp3.1\다음수.genruntimeconfig.cache

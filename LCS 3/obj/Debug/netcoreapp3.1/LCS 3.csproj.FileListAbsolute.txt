@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\bin\Debug\netcoreapp3.1\LCS 3.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\bin\Debug\netcoreapp3.1\LCS 3.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\bin\Debug\netcoreapp3.1\LCS 3.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\bin\Debug\netcoreapp3.1\LCS 3.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\bin\Debug\netcoreapp3.1\LCS 3.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\bin\Debug\netcoreapp3.1\LCS 3.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\obj\Debug\netcoreapp3.1\LCS 3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\obj\Debug\netcoreapp3.1\LCS 3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\obj\Debug\netcoreapp3.1\LCS 3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\obj\Debug\netcoreapp3.1\LCS 3.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\obj\Debug\netcoreapp3.1\LCS 3.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\obj\Debug\netcoreapp3.1\LCS 3.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\LCS 3\obj\Debug\netcoreapp3.1\LCS 3.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\bin\Debug\netcoreapp3.1\한글 LCS.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\bin\Debug\netcoreapp3.1\한글 LCS.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\bin\Debug\netcoreapp3.1\한글 LCS.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\bin\Debug\netcoreapp3.1\한글 LCS.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\bin\Debug\netcoreapp3.1\한글 LCS.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\bin\Debug\netcoreapp3.1\한글 LCS.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\obj\Debug\netcoreapp3.1\한글 LCS.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\obj\Debug\netcoreapp3.1\한글 LCS.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\obj\Debug\netcoreapp3.1\한글 LCS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\obj\Debug\netcoreapp3.1\한글 LCS.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\obj\Debug\netcoreapp3.1\한글 LCS.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\한글 LCS\obj\Debug\netcoreapp3.1\한글 LCS.genruntimeconfig.cache

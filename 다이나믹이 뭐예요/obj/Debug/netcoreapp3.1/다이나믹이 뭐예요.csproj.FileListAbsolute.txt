@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\bin\Debug\netcoreapp3.1\다이나믹이 뭐예요.exe
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\bin\Debug\netcoreapp3.1\다이나믹이 뭐예요.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\bin\Debug\netcoreapp3.1\다이나믹이 뭐예요.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\bin\Debug\netcoreapp3.1\다이나믹이 뭐예요.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\bin\Debug\netcoreapp3.1\다이나믹이 뭐예요.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\bin\Debug\netcoreapp3.1\다이나믹이 뭐예요.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\obj\Debug\netcoreapp3.1\다이나믹이 뭐예요.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\obj\Debug\netcoreapp3.1\다이나믹이 뭐예요.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\obj\Debug\netcoreapp3.1\다이나믹이 뭐예요.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\obj\Debug\netcoreapp3.1\다이나믹이 뭐예요.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\obj\Debug\netcoreapp3.1\다이나믹이 뭐예요.dll
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\obj\Debug\netcoreapp3.1\다이나믹이 뭐예요.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1112\다이나믹이 뭐예요\obj\Debug\netcoreapp3.1\다이나믹이 뭐예요.genruntimeconfig.cache
